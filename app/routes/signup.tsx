@@ -368,7 +368,7 @@ export default function NewAccount() {
             <Paragraph className="mb-12">
               {`
               Your team associates your blog post reads with a group and it's
-              fun to know that your contributing to a group while learning
+              fun to know that you're contributing to a group while learning
               and reading. When your team has the highest ranking on a post,
               you "own" that post. Kinda like an NFT, but not really.
             `}
